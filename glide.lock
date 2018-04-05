@@ -1,0 +1,6 @@
+hash: 7a9f3ac6419636395728c865f3c4831e1f592da2a075ea56b0d9e67ed1931d11
+updated: 2018-04-03T19:27:53.785970017-04:00
+imports:
+- name: github.com/montanaflynn/stats
+  version: 9a5f879690bc536efad0e944b86bc72140bb3730
+testImports: []
